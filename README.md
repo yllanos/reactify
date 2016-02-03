@@ -10,7 +10,7 @@ This boilerplate is purposefully simple to show the minimal setup needed to crea
 ### Usage
 **Clone this repository**
 ```
-git clone git@github.com:pro-react/react-app-boilerplate.git
+git clone https://github.com/yllanos/reactify.git
 ```
 
 **Install**
