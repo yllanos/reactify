@@ -3,8 +3,9 @@ import {render} from 'react-dom';
 
 class App extends Component {
   render(){
+    var message = 'Hello World!';
     return (
-      <h1>Hello World</h1>
+      <h1>{message}</h1>
     );
   }
 }
